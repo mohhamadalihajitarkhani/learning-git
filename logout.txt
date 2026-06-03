@@ -1,1 +1,0 @@
-adding logout from local terminal	
